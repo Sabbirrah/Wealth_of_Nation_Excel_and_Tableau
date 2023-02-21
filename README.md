@@ -5,6 +5,7 @@ The Aim of the project it is to create dashboard in Excel and in tableau for a C
 For this project has been use:
 
 In Excel:
+- Setting Password
 - Table Creation
 - Filtering
 - Creating Chart
